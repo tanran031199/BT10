@@ -1,10 +1,7 @@
 package BT.BT05;
 
 import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class BaiTap05 {
     public static void main(String[] args) {
